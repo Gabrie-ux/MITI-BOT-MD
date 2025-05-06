@@ -23,7 +23,7 @@ return conn.reply(m.chat, `「❀」Solo puedes usar este comando en el bot prin
 }
 async function serbot() {
 let serbotFolder = crypto.randomBytes(10).toString('hex').slice(0, 8)
-let folderSub = `./LancelotJadiBot/${serbotFolder}`
+let folderSub = `./MITIBOTJadiBot/${serbotFolder}`
 if (!fs.existsSync(folderSub)) {
 fs.mkdirSync(folderSub, { recursive: true })
 }
@@ -104,7 +104,7 @@ if (i >= 0) {
 delete global.conns[i]
 global.conns.splice(i, 1)
 }
-fs.rmdirSync(`./CrowJadiBot/${serbotFolder}`, { recursive: true })
+fs.rmdirSync(`./MITIJadiBot/${serbotFolder}`, { recursive: true })
 }
 }, 30000)
 let handler = await import("../handler.js")
