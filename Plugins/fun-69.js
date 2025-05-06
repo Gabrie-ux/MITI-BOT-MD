@@ -5,7 +5,7 @@ import path from 'path';
 
 let handler = async (m, { conn }) => {
     if (!m.isGroup) return;
-    if (!db.data.chats[m.chat].nsfw) return m.reply('🚩 *¡Estos comandos están desactivados!*');
+    if (!db.data.chats[m.chat].nsfw) return m.reply('🚀 *¡Estos comandos están desactivados!*');
     
     const who = m.mentionedJid[0] || (m.quoted ? m.quoted.sender : null);
     if (!who) return m.reply('Etiqueta o menciona a alguien');
