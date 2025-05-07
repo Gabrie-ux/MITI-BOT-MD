@@ -30,7 +30,7 @@
 <a href="wa.me/59169082575" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </a>
 
-<a href="https://github.com/abrahan987" target="blank"><img src="https://img.shields.io/badge/ABRAHAN-M-4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://github.com/abrahan987" target="blank"><img src="https://img.shields.io/badge/Abraham987-4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="wa.me/573237649689" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </a>
 
