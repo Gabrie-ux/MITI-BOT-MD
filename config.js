@@ -11,9 +11,9 @@ import moment from 'moment-timezone'
 // Staff De MITIBOT
 global.owner = [
    ['+51964351354', 'Creador Gabriel🚀', true],
-   ['+56940429343', 'abraham ch', true],
+   ['+56940429343', 'abrahan-m', true],
    ['50557333744', 'JonathanG', true],
-   ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
+   ['573237649689', 'ABRAHAN-M', true],
    ['', 'Dev Prak', true],
    ['', 'Dev Darkcore', true],
    ['5216633900512', 'Dev ʙʀᴀʏᴀɴᴏғᴄ', true],
