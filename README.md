@@ -14,4 +14,30 @@
 
 <a href="https://whatsapp.com/channel/0029VbAt0n3It5rv4WOUcH00" target="blank"><img src="https://img.shields.io/badge/CANAL_UPDATES_MITA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://whatsapp.com/channel/0029VaehG4gKmCPX449RbA2T" target="blank"><img src="https://img.shields.io/badge/CANAL BILLIE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://whatsapp.com/channel/0029VaehG4gKmCPX449RbA2T" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+### `—◉ DESARROLLADORES`
+
+<a href="https://github.com/NOMBRE" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="wa.me/51964351354" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</a>
+
+<a href="https://github.com/NOMBRE" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="wa.me/51920227615" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</a>
+
+<a href="https://github.com/NOMBRE" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR-3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="wa.me/59169082575" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</a>
+
+<a href="https://github.com/NOMBRE" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR-4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="wa.me/473237649689" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</a>
+
+<a href="https://github.com/NOMBRE" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR-5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="wa.me/526633900512" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</a>
+
+<a href="https://github.com/NOMBRE" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR-6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="wa.me/50557333744" target="blank"><img src="https://img.shields.io/badge/DESARROLLADOR_6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</a>
