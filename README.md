@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-```
+
    ❤️   
   ❤️❤️  
  ❤️❤️❤️ 
@@ -25,7 +25,7 @@
  ❤️❤️❤️ 
   ❤️❤️  
    ❤️   
-```
+
 </div>
 
 ### `—◉ CANALES OFICIALES`
