@@ -1,3 +1,5 @@
+//BY ABRAHAN-M
+
 import fetch from "node-fetch";
 import yts from 'yt-search';
 import axios from "axios";
@@ -28,6 +30,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     const canal = author.name ? author.name : 'Desconocido';
     const infoMessage = `
 *⋆⁺˖⸙̭✧୨୧ MUSIC INFO ୨୧✧⸙̭˖⁺⋆*
+*⋆⁺˖⸙̭✧୨୧ AZUMI BEBE- BY ABRAHAN୨୧✧⸙̭˖⁺⋆*
 
 ꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷
 ⏝ *Título:* ${title || 'Desconocido'}
