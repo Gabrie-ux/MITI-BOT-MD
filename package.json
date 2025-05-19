@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/WillZek/CrowBot-ST",
+"homepage": "https://github.com/Gabrie-ux/MITI-BOT-MD",
 "author": {
 "name": "WillZek"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/WillZek/CrowBot-ST.git"
+"url": "git+https://github.com/Gabrie-ux/MITI-BOT-MD.git"
 },
 "bugs": {
-"url": "https://github.com/WillZek/CrowBot-ST/issues"
+"url": "https://github.com/Gabrie-ux/MITI-BOT-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
