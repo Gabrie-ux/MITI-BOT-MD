@@ -1,8 +1,8 @@
 {
 "name": "MITA-MD",
-"version": "2.5.0",
+"version": "0.1",
 "description": "Simple WhatsApp Bot Multi Device",
-"main": "starcore.js",
+"main": "pene.js",
 "type": "module",
 "directories": {
 "lib": "lib",
