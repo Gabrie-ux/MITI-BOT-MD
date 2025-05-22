@@ -185,8 +185,8 @@ loadDatabase();*/
 /* ------------------------------------------------*/
 
 global.creds = 'creds.json'
-global.authFile = `MitaBotSession`
-global.authFileJB  = 'Mita_Subs_Bots'
+global.authFile = `BotSession`
+global.authFileJB  = 'jadibts'
 global.rutaBot = join(__dirname, authFile)
 global.rutaJadiBot = join(__dirname, authFileJB)
 const respaldoDir = join(__dirname, 'BackupSession');
@@ -253,7 +253,7 @@ console.info = () => {}
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['MitaBot-MD', 'Edge', '20.0.04'] : methodCodeQR ? ['MitaBot-MD', 'Edge', '20.0.04'] : ["Ubuntu", "Chrome", "20.0.04"],
+browser: opcion == '1' ? ['LoliBot-MD', 'Edge', '20.0.04'] : methodCodeQR ? ['LoliBot-MD', 'Edge', '20.0.04'] : ["Ubuntu", "Chrome", "20.0.04"],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -285,7 +285,7 @@ auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
 },
-browser: opcion == '1' ? ['MitaBot-MD', 'Edge', '20.0.04'] : methodCodeQR ? ['MitaBot-MD', 'Edge', '20.0.04'] : ["Ubuntu", "Chrome", "20.0.04"],
+browser: opcion == '1' ? ['LoliBot-MD', 'Edge', '20.0.04'] : methodCodeQR ? ['LoliBot-MD', 'Edge', '20.0.04'] : ["Ubuntu", "Chrome", "20.0.04"],
 version: version,
 generateHighQualityLinkPreview: true
 };
